@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "homepage": "http://dkreth.github.io/tic-tac-toe",
   "private": true,
+  "engines": {
+    "npm":"6.4.1",
+    "node":"10.15.1"
+  },
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
